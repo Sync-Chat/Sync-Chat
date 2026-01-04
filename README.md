@@ -176,5 +176,3 @@ http://localhost:5173
 
 ---
 
-
-Say exactly what you want next.
